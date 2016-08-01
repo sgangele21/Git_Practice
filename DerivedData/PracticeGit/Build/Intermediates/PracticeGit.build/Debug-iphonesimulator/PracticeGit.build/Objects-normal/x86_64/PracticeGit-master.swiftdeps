@@ -1,0 +1,6 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "e8234bf363791a6038bd3996755b4e56"
+build_time: [523397567, 593724000]
+inputs:
+  "/Users/sgangele/Documents/Projects/PracticeGit/PracticeGit/ViewController.swift": [523397564, 0]
+  "/Users/sgangele/Documents/Projects/PracticeGit/PracticeGit/AppDelegate.swift": [523397564, 0]
